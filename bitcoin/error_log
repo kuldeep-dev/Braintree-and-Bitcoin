@@ -1,0 +1,16 @@
+[01-Dec-2017 04:07:50 America/Chicago] PHP Warning:  http_build_query(): Parameter 1 expected to be Array or Object.  Incorrect value given in /home/rakesh/public_html/bitcoin/vendor/coingate/coingate-php/lib/CoinGate.php on line 82
+[01-Dec-2017 04:11:39 America/Chicago] PHP Fatal error:  Class 'CoinGate\Merchant\Order' not found in /home/rakesh/public_html/bitcoin/orders.php on line 5
+[01-Dec-2017 04:14:11 America/Chicago] PHP Fatal error:  Class 'CoinGate\Merchant\Order' not found in /home/rakesh/public_html/bitcoin/orders.php on line 5
+[01-Dec-2017 04:16:05 America/Chicago] PHP Fatal error:  Class 'CoinGate\Merchant\Order' not found in /home/rakesh/public_html/bitcoin/orders.php on line 5
+[01-Dec-2017 04:21:53 America/Chicago] PHP Fatal error:  Class 'CoinGate\Merchant\Order' not found in /home/rakesh/public_html/bitcoin/orders.php on line 5
+[01-Dec-2017 04:40:34 America/Chicago] PHP Parse error:  syntax error, unexpected '$order' (T_VARIABLE) in /home/rakesh/public_html/bitcoin/orders.php on line 4
+[01-Dec-2017 06:22:07 America/Chicago] PHP Warning:  fwrite() expects parameter 2 to be string, array given in /home/rakesh/public_html/bitcoin/callback.php on line 5
+[01-Dec-2017 06:22:16 America/Chicago] PHP Warning:  fwrite() expects parameter 2 to be string, array given in /home/rakesh/public_html/bitcoin/orders.php on line 20
+[01-Dec-2017 06:24:55 America/Chicago] PHP Warning:  fwrite() expects parameter 2 to be string, array given in /home/rakesh/public_html/bitcoin/callback.php on line 5
+[01-Dec-2017 06:25:07 America/Chicago] PHP Warning:  fwrite() expects parameter 2 to be string, array given in /home/rakesh/public_html/bitcoin/orders.php on line 20
+[01-Dec-2017 06:35:13 America/Chicago] PHP Warning:  fwrite() expects parameter 2 to be string, array given in /home/rakesh/public_html/bitcoin/orders.php on line 20
+[01-Dec-2017 06:35:53 America/Chicago] PHP Warning:  fwrite() expects parameter 2 to be string, array given in /home/rakesh/public_html/bitcoin/orders.php on line 20
+[01-Dec-2017 06:48:36 America/Chicago] PHP Fatal error:  Class 'CoinGate\TestCase' not found in /home/rakesh/public_html/bitcoin/orders.php on line 4
+[01-Dec-2017 06:50:08 America/Chicago] PHP Fatal error:  Class 'CoinGate\Merchant' not found in /home/rakesh/public_html/bitcoin/orders.php on line 8
+[01-Dec-2017 06:50:09 America/Chicago] PHP Fatal error:  Class 'CoinGate\Merchant' not found in /home/rakesh/public_html/bitcoin/orders.php on line 8
+[01-Dec-2017 07:52:19 America/Chicago] PHP Fatal error:  Class 'CoinGate\Merchant\Order' not found in /home/rakesh/public_html/bitcoin/orders.php on line 5

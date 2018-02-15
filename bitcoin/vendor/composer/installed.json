@@ -1,0 +1,50 @@
+[
+    {
+        "name": "coingate/coingate-php",
+        "version": "2.0.1",
+        "version_normalized": "2.0.1.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/coingate/coingate-php.git",
+            "reference": "fdd77eec33a8bcaf7b68a72afd85153483b45e6d"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/coingate/coingate-php/zipball/fdd77eec33a8bcaf7b68a72afd85153483b45e6d",
+            "reference": "fdd77eec33a8bcaf7b68a72afd85153483b45e6d",
+            "shasum": ""
+        },
+        "require": {
+            "ext-curl": "*",
+            "ext-json": "*"
+        },
+        "require-dev": {
+            "phpunit/phpunit": "4.8.*"
+        },
+        "time": "2017-04-28T13:37:08+00:00",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "psr-4": {
+                "CoinGate\\": "lib/"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "CoinGate and contributors",
+                "homepage": "https://github.com/coingate/coingate-php/graphs/contributors"
+            }
+        ],
+        "description": "CoinGate library for PHP",
+        "homepage": "https://coingate.com",
+        "keywords": [
+            "bitcoin",
+            "coingate",
+            "merchant"
+        ]
+    }
+]
